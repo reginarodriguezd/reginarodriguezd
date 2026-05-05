@@ -1,4 +1,4 @@
-# Hi there, I'm Regina Rodríguez Durant Reyes  🧬💻
+# Hi there, I'm Regina Rodríguez Durant 🧬💻
 
 I am a **Biotechnology Engineer** and current **MSc student in Bioinformatics for Health Sciences** at UPF. Currently, I work as an **AI Enablement & Data Analytics Specialist**, bridging the gap between molecular biology and computational intelligence.
 
