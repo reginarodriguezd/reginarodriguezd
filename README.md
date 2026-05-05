@@ -4,40 +4,39 @@ I am a **Biotechnology Engineer** and current **MSc student in Bioinformatics fo
 
 ---
 
-### 🛠 Tech Stack
-
-**Programming & Data Science**
+**Programming & Scripting**
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 - ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Bioinformatics & Modeling**
-- 🧬 **Bio Tools:** AlphaFold, BLAST, SuperPro Designer, Simulink.
-- 📊 **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch/TensorFlow.
+**Data Science & AI Enablement**
+- ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- 🤖 **Machine Learning:** Scikit-learn, Deep Learning (categorization & flow optimization).
+- 📈 **Statistics & Analysis:** Minitab, Excel (Advanced), Matplotlib.
+- ⚙️ **Automation:** Openpyxl (Excel automation), Jupyter.
+
+**Bioinformatics & Industrial Simulation**
+- 🧬 **Sequence Analysis:** BLAST (NCBI), AlphaFold.
+- 🏭 **Bioprocess Modeling:** SuperPro Designer (Scalability & Feasibility).
+- 📉 **Control & Systems:** MATLAB, Simulink.
+- 🧪 **Lab Skills:** Chromatography, Genetic Engineering, Fermentation, Protein Purification.
 
 **Tools & Environment**
 - ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![SAP](https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reginarodriguezd&show_icons=true&theme=radical" alt="Regina's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginarodriguezd&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
 
 ### 🌐 Connect with me
 
 - 📧 **Email:** [reginarodriguezdurant@live.com.mx](mailto:reginarodriguezdurant@live.com.mx)
-- 💼 **LinkedIn:** [linkedin.com/in/reginarodriguezd](https://www.linkedin.com/in/reginarodriguezdurant) *(Asegúrate de que este link sea correcto)*
+- 💼 **LinkedIn:** [linkedin.com/in/reginarodriguezd](https://www.linkedin.com/in/reginarodriguezdurant) 
 - 📍 **Location:** Barcelona, Spain
 
 ---
